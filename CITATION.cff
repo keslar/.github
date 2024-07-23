@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Keslar"
+  given-names: "Christopher"
+  orcid: "https://orcid.org0000-0002-5214-989X"
+title: "Repo Name or Title of Publication"
+version: 0.0.0
+doi: 10.5281/zenodo.1234
+date-released: YYYY-MM-DD
+url: "https://github.com/kesalr/reponame"
